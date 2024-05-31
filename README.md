@@ -7,7 +7,7 @@
 
   
 ![1](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/7c2f0a12-c34c-46d2-bd2c-3923aa478564)
-## 간략하게 첫줄만 설명하자면 
+#### 간략하게 첫줄만 설명하자면 
 - 03:47:15 > 현재 서버 시간
 - 1:115 > uptime(켜져있는 시간)
 - 0 user > 유저
