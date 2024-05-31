@@ -26,7 +26,7 @@
 
 
 #### ```top 명령어는 실행 후 옵션이 많이 존재하는데 그 중 하나만 보면```
-- shift + p > CPU 사용률을 내림차순으로 보여준다.
+- 1 > CPU Core별로 사용량을 보여준다. 
 
   
-![2](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/6eac6b81-006e-4312-b314-7ab5ab90057d)
+
