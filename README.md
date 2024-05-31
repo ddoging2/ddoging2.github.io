@@ -28,5 +28,6 @@
 #### ```top 명령어는 실행 후 옵션이 많이 존재하는데 그 중 하나만 보면```
 - 1 > CPU Core별로 사용량을 보여준다. 
 
-  
+
+![2](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/7ab040c2-b8e6-4dcc-8c5c-b2bc0540b2da)
 
