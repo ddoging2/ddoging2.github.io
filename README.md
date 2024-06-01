@@ -106,10 +106,8 @@
 >kill -ㅣ을 사용하면 사용 가능한 신호 목록을 가져온다.
 
 
-![5](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/b342097f-a6de-4169-b6b3-ca638eb5c722)
+![7](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/807fabef-d3e9-4327-903e-51437a1e83c6)
 
-
-#### ```설명```
 
 
 - Running > 프로세스의 상태를 나타내는 것으로 현재 실행중인 상태이다. 
