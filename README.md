@@ -52,7 +52,7 @@
 ![3](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/3557684f-b2c0-4b8d-a523-5e3e3e824bd7)
 
 
-#### 간략하게 첫줄 단어들의 의미를 설명하면
+#### 간략하게 첫 줄 단어들의 의미를 설명하면
 
 
 - ```PID``` > 프로세스 ID
