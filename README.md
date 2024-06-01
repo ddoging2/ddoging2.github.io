@@ -92,7 +92,7 @@
 - jobs -p 입력 시 > 잡의 프로세스 ID만 출력한다. 
 
 
-![4](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/cce827f0-6863-4841-baf8-8dbcac169ba7)
+![6](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/e6bfcfa2-4723-43fe-8427-f80c9fc747cd)
 
 
 
