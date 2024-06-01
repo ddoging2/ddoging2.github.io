@@ -76,25 +76,20 @@
 >jobs 사용 화면
 
 
-![3](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/3557684f-b2c0-4b8d-a523-5e3e3e824bd7)
+![5](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/b342097f-a6de-4169-b6b3-ca638eb5c722)
 
 
-#### ```간략하게 첫줄 단어들의 의미를 설명하면```
+#### ```설명```
 
 
-- PID > 프로세스 ID
+- Running > 프로세스의 상태를 나타내는 것으로 현재 실행중인 상태이다. 
 
 
-- TTY > 프로세스의 제어 터미널 이름
+-  sleep 100 & > 어떤 명령어를 실행했는지 보여준다.
 
-  
-- TIME > 프로세서의 누적 CPU 시간
 
-  
-- CMD > 프로세스를 시작하는 데 사용된 명령의 이름
-
-#### ```ps (option)으로 사용되는 여러 옵션이 존재하나 그 중 하나만 보면```
-- ps -l 입력 시 > 긴 포맷으로 보여준다.
+#### ```jobs (options) (job)으로 사용되는 여러 옵션이 존재하나 그 중 하나만 보면```
+- jobs -p 입력 시 > 잡의 프로세스 ID만 출력한다. 
 
 
 ![4](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/cce827f0-6863-4841-baf8-8dbcac169ba7)
