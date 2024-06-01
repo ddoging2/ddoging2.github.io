@@ -38,7 +38,7 @@
 **1,2,3,4 순서로 정렬된 걸 볼 수 있다.**
 
 
-
+![8](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/e5592472-2e2d-4915-82f0-d4b9be53fd24)
 
 
 ### 2. ps
