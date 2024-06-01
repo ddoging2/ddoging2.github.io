@@ -1,10 +1,7 @@
 # 오픈소스 SW개론 과제 : top, ps, jobs, kill 명령어 조사 
 ### 1. top
 ---
-><span style="color:blue">top 명령어란?</span> : 실시간으로 CPU 사용률을 체크해주는 도구
-
-
->top 사용법 
+>top 명령어란? : 실시간으로 CPU 사용률을 체크해주는 도구
 
 
 >top 사용 화면
@@ -71,10 +68,10 @@
 
 ### 3. jobs
 ---
->jobs 명령어란? : 현재 실행중인 프로세스 목록을 보여주는 명령어
+>jobs 명령어란? : 작업의 상태를 표시하는 명령어
+<span style="color:red">jobs를 입력했을 때 실행중인 작업이 없다면 아무것도 출력되지 않는다.</span>
 
-
->ps 사용 화면
+>jobs 사용 화면
 
 
 ![3](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/3557684f-b2c0-4b8d-a523-5e3e3e824bd7)
