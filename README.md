@@ -70,6 +70,11 @@
 ---
 >jobs 명령어란? : 작업의 상태를 표시하는 명령어
 <span style="color:red">jobs를 입력했을 때 실행중인 작업이 없다면 아무것도 출력되지 않는다.</span>
+<span style="color: #FF0000">빨강</span>
+<span style="color: #0000FF">파랑</span>
+<span style="color: #008000">초록</span>
+<span style="color: #808080">회색</span>
+<span style="color: #ffd33d">노랑</span>
 
 >jobs 사용 화면
 
