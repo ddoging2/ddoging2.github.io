@@ -71,7 +71,7 @@
 >jobs 명령어란? : 작업의 상태를 표시하는 명령어
 
 
-<span style="color: #FF0000">jobs를 입력했을 때 실행중인 작업이 없다면 아무것도 출력되지 않는다.</span>
+<font color="red">jobs를 입력했을 때 실행중인 작업이 없다면 아무것도 출력되지 않는다.</font>
 
 
 >jobs 사용 화면
