@@ -95,4 +95,31 @@
 ![6](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/e6bfcfa2-4723-43fe-8427-f80c9fc747cd)
 
 
+### 4. kill
+---
+>kill 명령어란? : 지정된 프로세스 또는 프로세스 그룹에 신호를 보내 신호에 따라 작동하도록 한다.
 
+
+**그냥 kill를 입력했을 때는 실행이 되지 않는다. kill은 보낼 수 있는 신호가 많다.**
+
+
+>kill -ㅣ을 사용하면 사용 가능한 신호 목록을 가져온다.
+
+
+![5](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/b342097f-a6de-4169-b6b3-ca638eb5c722)
+
+
+#### ```설명```
+
+
+- Running > 프로세스의 상태를 나타내는 것으로 현재 실행중인 상태이다. 
+
+
+-  sleep 100 & > 어떤 명령어를 실행했는지 보여준다.
+
+
+#### ```jobs (options) (job)으로 사용되는 여러 옵션이 존재하나 그 중 하나만 보면```
+- jobs -p 입력 시 > 잡의 프로세스 ID만 출력한다. 
+
+
+![6](https://github.com/ddoging2/ddoging2.github.io/assets/171368038/e6bfcfa2-4723-43fe-8427-f80c9fc747cd)
